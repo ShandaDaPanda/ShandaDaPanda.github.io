@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4b364e5e.css",
-    "main.js": "/static/js/main.6f0f096a.js",
+    "main.js": "/static/js/main.98d31130.js",
     "static/js/787.ddae4ead.chunk.js": "/static/js/787.ddae4ead.chunk.js",
     "static/media/AlignMirror.PNG": "/static/media/AlignMirror.60223e61883a3d82aa54.PNG",
     "static/media/SliderTile.PNG": "/static/media/SliderTile.d6c557b12cebb60a7330.PNG",
@@ -78,6 +78,7 @@
     "static/media/Crocodile.PNG": "/static/media/Crocodile.99058fd976fd8c4afc3c.PNG",
     "static/media/Muhammed.PNG": "/static/media/Muhammed.115523d649b2900f891e.PNG",
     "static/media/Rat.PNG": "/static/media/Rat.88682b28d30887a91413.PNG",
+    "static/media/BeanieBlack.png": "/static/media/BeanieBlack.61fc2c3cbb0efd7726d2.png",
     "static/media/SequenceCages.PNG": "/static/media/SequenceCages.af8fa35ac917ccf92791.PNG",
     "static/media/Pigman.PNG": "/static/media/Pigman.a7f25ed587708f9bfb68.PNG",
     "static/media/ScareCrow.PNG": "/static/media/ScareCrow.a0cbfe7554c645fa1d79.PNG",
@@ -85,11 +86,11 @@
     "static/media/Memory.PNG": "/static/media/Memory.12fe48e33ec6765109a6.PNG",
     "index.html": "/index.html",
     "main.4b364e5e.css.map": "/static/css/main.4b364e5e.css.map",
-    "main.6f0f096a.js.map": "/static/js/main.6f0f096a.js.map",
+    "main.98d31130.js.map": "/static/js/main.98d31130.js.map",
     "787.ddae4ead.chunk.js.map": "/static/js/787.ddae4ead.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b364e5e.css",
-    "static/js/main.6f0f096a.js"
+    "static/js/main.98d31130.js"
   ]
 }
