@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4b364e5e.css",
-    "main.js": "/static/js/main.4f520f91.js",
+    "main.js": "/static/js/main.204cbe2a.js",
     "static/js/787.ddae4ead.chunk.js": "/static/js/787.ddae4ead.chunk.js",
     "static/media/AlignMirror.PNG": "/static/media/AlignMirror.60223e61883a3d82aa54.PNG",
     "static/media/SliderTile.PNG": "/static/media/SliderTile.d6c557b12cebb60a7330.PNG",
@@ -264,6 +264,7 @@
     "static/media/Pigman.PNG": "/static/media/Pigman.a7f25ed587708f9bfb68.PNG",
     "static/media/HeadbandElf.png": "/static/media/HeadbandElf.d1aabfedc576f981dabc.png",
     "static/media/MotorcycleHelmetRed.png": "/static/media/MotorcycleHelmetRed.a0a6360247ac268ad977.png",
+    "static/media/BowlerHat.png": "/static/media/BowlerHat.293147b4934ff364c32e.png",
     "static/media/CapOrangeGrunge.png": "/static/media/CapOrangeGrunge.5433402e5d2ece1fe075.png",
     "static/media/CapMintStripe.png": "/static/media/CapMintStripe.35d05d818b85693342ac.png",
     "static/media/Tiara.png": "/static/media/Tiara.5c7dcc18f8fe8012db86.png",
@@ -440,11 +441,11 @@
     "static/media/HeavenMayCry.png": "/static/media/HeavenMayCry.e7fa66a2896eef0bdec2.png",
     "index.html": "/index.html",
     "main.4b364e5e.css.map": "/static/css/main.4b364e5e.css.map",
-    "main.4f520f91.js.map": "/static/js/main.4f520f91.js.map",
+    "main.204cbe2a.js.map": "/static/js/main.204cbe2a.js.map",
     "787.ddae4ead.chunk.js.map": "/static/js/787.ddae4ead.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b364e5e.css",
-    "static/js/main.4f520f91.js"
+    "static/js/main.204cbe2a.js"
   ]
 }
